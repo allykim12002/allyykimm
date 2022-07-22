@@ -1,1 +1,1 @@
-# allyykim.github.io
+Personal website created by Ally Kim
